@@ -9,9 +9,10 @@
  *
  * Clean Education functions and definitions
  *
- * @package Catch Themes
+ *
  * @subpackage Clean Education
  * @since Clean Education 0.1
+ this is very good code
  */
 
 if ( ! function_exists( 'clean_education_content_width' ) ) :
