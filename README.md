@@ -9,7 +9,7 @@
  *
  * Clean Education functions and definitions
  *
- *
+ * veru good code is here
  * @subpackage Clean Education
  * @since Clean Education 0.1
  this is very good code
